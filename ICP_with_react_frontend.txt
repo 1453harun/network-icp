@@ -1,7 +1,7 @@
 ﻿Open a terminal:
 
 
-Step1.
+Step1. 
 --> dfx new deeper
 
 Step2.
