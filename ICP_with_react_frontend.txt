@@ -7,7 +7,7 @@ Step1.
 Step2.
 open the project with an IDE (recom VScode)
 delete main.css, index.html, index.js
-
+ 
 Step3.
 react projesindeki .css, .html, .js dosyalarını dfx'de sildiklerinin
 yerine at 
