@@ -3,7 +3,7 @@
               
 Step1. 
 --> dfx new deeper
- 
+  
 Step2.
 open the project with an IDE (recom VScode)
 delete main.css, index.html, index.js
