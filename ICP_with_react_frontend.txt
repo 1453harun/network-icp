@@ -1,5 +1,5 @@
 ﻿Open a terminal:
- 
+  
   
 Step1. 
 --> dfx new deeper
